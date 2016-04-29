@@ -4,7 +4,7 @@
 #
 Name     : rubygem-launchy
 Version  : 2.4.3
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/launchy-2.4.3.gem
 Source0  : https://rubygems.org/downloads/launchy-2.4.3.gem
 Summary  : No detailed summary available
